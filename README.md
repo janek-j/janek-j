@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 
+I’m second-year computer science student at Jagiellonian University in Cracow. I've been writing code since 2020, when my journey with computer science began. I enjoy coding in Python and C++, and I've been programming in these languages since 2022.
 <!--
 **janek-j/janek-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
