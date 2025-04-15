@@ -19,7 +19,7 @@ I'm a passionate computer science enthusiast who started this journey in 2020. S
 
 ## Let's Connect!
 
-Feel free to explore my repositories, drop me a message, or just say hi. I'm always open to learning, collaborating, and sharing knowledge.]
+Feel free to explore my repositories, drop me a message, or just say hi. I'm always open to learning, collaborating, and sharing knowledge.
 Thanks for stopping by!
 
 ## Reach me: janjochymczyk.praca@gmail.com
