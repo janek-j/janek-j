@@ -9,6 +9,7 @@ I'm a passionate computer science enthusiast who started this journey in 2020. S
 - 🏃‍♂️ I enjoy staying active and playing sports.
 - 🍵 I'm a big fan of good tea – it keeps me focused and relaxed while coding.
 - 🐧 I mainly develop using **Linux**, and my go-to languages are **C++** and **Python**.
+- 🙋‍♂️ I'm also a volunteer at various university events, such as promoting my faculty and study program to prospective students
 
 ## Personal Values
 
