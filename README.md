@@ -22,5 +22,5 @@ I'm a passionate computer science enthusiast who started this journey in 2020. S
 Feel free to explore my repositories, drop me a message, or just say hi. I'm always open to learning, collaborating, and sharing knowledge.
 Thanks for stopping by!
 
-## Reach me: janjochymczyk.praca@gmail.com
+## Reach me: janjochymczyk.praca@gmail.com https://www.linkedin.com/in/jan-jochymczyk-aa511b261/
 
