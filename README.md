@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm a passionate computer science enthusiast who started this journey in 2020. Since 2022, I've been studying **Applied Computer Science** at the **Jagiellonian University** in Kraków, Poland.
-
+Also, I have just started a new position of C++ developer intern @CobhamSatcom
 ## About Me
 
 - 💻 I love programming and software engineering.
